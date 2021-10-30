@@ -10,10 +10,10 @@ Python Pandas
  - Plotly
  - Pathlib
  - Matplotlib  
+
 Machine Learning: Supervised Learning
  - KNN
  - 
-<br><br/>
 ## Code
 ### Data Prep 
 To manipulate data pandas.get_dummies() was used to ensure that it converts categorical data into indicator variables. Data filtering; Removing outliers to avoid skewed data and filtering out specific terms from each column based on value counts.
