@@ -17,8 +17,9 @@ Machine Learning: Supervised Learning
 <br><br/>
 ## Code
 ### Data Prep 
-* 
-
+* Get_dummies
+* Remove outliers to avoid skewed data
+* Filter out and drop specific terms from each column based on value counts
 ### Machine Learning Integration 
 * 
 
