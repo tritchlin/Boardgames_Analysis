@@ -17,9 +17,7 @@ Machine Learning: Supervised Learning
 <br><br/>
 ## Code
 ### Data Prep 
-* Get_dummies
-* Remove outliers to avoid skewed data
-* Filter out and drop specific terms from each column based on value counts
+To manipulate data pandas.get_dummies() was used to ensure that itt converts categorical data into indicator variables. Data Filtering which include rRemoving outliers to avoid skewed data and filtering out specific terms from each column based on value counts.
 ### Machine Learning Integration 
 * 
 
