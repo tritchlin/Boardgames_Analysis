@@ -9,7 +9,7 @@ Kaggle: 20,000 Boardgames Dataset. Data from 20,000 boardgames scraped from boar
 Python Pandas 
  - Plotly
  - Pathlib
- - Matplotlib
+ - Matplotlib  
 Machine Learning: Supervised Learning
  - KNN
  - 
