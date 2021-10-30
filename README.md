@@ -10,7 +10,6 @@ Python Pandas
  - Plotly
  - Pathlib
  - Matplotlib
-
 Machine Learning: Supervised Learning
  - KNN
  - 
