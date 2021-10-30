@@ -15,7 +15,6 @@ Machine Learning: Supervised Learning
  - KNN
  - 
 <br><br/>
-
 ## Code
 ### Data Prep 
 * 
