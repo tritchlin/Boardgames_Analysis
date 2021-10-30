@@ -3,7 +3,6 @@ With Pandas being the backend of this project, we curated a boardgame recommenda
  <br><br/>
 ## Dataset
 Kaggle: 20,000 Boardgames Dataset  
-
  To access the dataset <a href="https://www.kaggle.com/extralime/20000-boardgames-dataset"> click here. </a>
 
 <br><br/>
